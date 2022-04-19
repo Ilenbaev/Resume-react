@@ -1,0 +1,77 @@
+.skill_box {
+  background: #f0fff0;
+  text-align: center;
+  padding: 30px 0;
+}
+.skill__content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.left_block {
+  width: 30%;
+  min-width: 300px;
+}
+.center_block {
+  width: 30%;
+  min-width: 300px;
+}
+.right_block {
+  width: 30%;
+  min-width: 300px;
+}
+.progress0 {
+  max-width: 100%;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+}
+.progress1 {
+  max-width: 100%;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+}
+.progress2 {
+  max-width: 60%;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+}
+.progress3 {
+  max-width: 40%;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+}
+
+.progress4 {
+  max-width: 80%;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+}
+.progress5 {
+  max-width: 50%;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+}
+.progress6 {
+  max-width: 20%;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+}
+.progress7 {
+  max-width: 20%;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+}
+.progress8 {
+  max-width: 40%;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+}

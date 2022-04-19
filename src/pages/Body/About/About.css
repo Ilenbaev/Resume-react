@@ -1,0 +1,46 @@
+.about {
+  background-image: url(/src/pages/img/fon.jpg);
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about_info {
+  color: white;
+  text-align: center;
+}
+.about_info h1 {
+  font-size: 120px;
+  text-shadow: 4px 3px 4px #d2691e;
+}
+
+@media all and (max-width: 768px) {
+  .about {
+    height: 400px;
+  }
+  .about_info h1 {
+    font-size: 80px;
+  }
+}
+@media all and (max-width: 426px) {
+  .about_info h1 {
+    font-size: 60px;
+  }
+}
+
+.about_me {
+  text-align: center;
+  padding: 0 20px;
+  font-size: 22px;
+}
+
+.btn {
+  background-color: aqua;
+  border: none;
+  padding: 15px;
+  margin: 10px;
+}
+span {
+  color: darkorange;
+}
